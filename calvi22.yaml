@@ -50,7 +50,6 @@ validate:
     - "paul.dudule@gmail.com"
     - "hhoareau@gmail.com"
     - "sophie.dudule@gmail.com"
-    - "thomas@nfluent.io"
 
   #Liste des propriétés montrées au validateur
   properties:
